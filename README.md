@@ -1,4 +1,4 @@
-# 70 Core Keras Interview Questions in 2025
+# 70 Core Keras Interview Questions in 2026
 
 <div>
 <p align="center">
